@@ -1,0 +1,35 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Nuclear Physics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Particle Physics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "c115f319-2adc-acbe-b7a3-c29d3bf1d75c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Introduction to Nuclear and Particle Physics",
+  "course_description": "This is an introductory graduate-level course on the phenomenology and experimental foundations of nuclear and particle physics, including the fundamental forces and particles, as well as composites. Emphasis is on the experimental establishment of the leading models, and the theoretical tools and experimental apparatus used to establish them.\n",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.701",
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Problem Sets with Solutions",
+    "Lecture Notes",
+    "Presentation Assignments"
+  ],
+  "title": "Course Metadata"
+}

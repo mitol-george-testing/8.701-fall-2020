@@ -1,0 +1,9 @@
+---
+content_type: page
+is_media_gallery: true
+parent_title: Video Lectures
+parent_uid: 82effbc6-0d78-a950-02bb-b94bd88aa16a
+title: Chapter 1. Fermions, Bosons, and Fields
+uid: 541ed54b-ca01-1ae6-c93f-3e4894265c66
+---
+{{< video-gallery-item href="/resources/lecture-1-1-quantum-field-and-matter" section="Chapter 1. Fermions, Bosons, and Fields" title="Lecture 1.1: Quantum Field and Matter (07:04)" description="Description: Connecting particles and forces with quantum fields. (07:04) Instructor: Prof. Markus Klute" thumbnail="https://img.youtube.com/vi/HynldX56FHI/default.jpg" >}} {{< video-gallery-item href="/resources/lecture-1" section="Chapter 1. Fermions, Bosons, and Fields" title="Lecture 1.2: Feynman Diagram (05:54)" description="Description: First introduction to Feynman diagrams. (05:54) Instructor: Prof. Markus Klute" thumbnail="https://img.youtube.com/vi/6xzjJ5ncGxY/default.jpg" >}} {{< video-gallery-item href="/resources/lecture-1-1" section="Chapter 1. Fermions, Bosons, and Fields" title="Lecture 1.3: Ranges of Forces (05:29)" description="Description: Discussion of the impact of mass on the range for forces. (05:29) Instructor: Prof. Markus Klute" thumbnail="https://img.youtube.com/vi/QDIdZR9G2UU/default.jpg" >}} {{< video-gallery-item href="/resources/lecture-1-2" section="Chapter 1. Fermions, Bosons, and Fields" title="Lecture 1.4: Decays (07:37)" description="Description: Discussion of decay rates and lifetime. (07:37) Instructor: Prof. Markus Klute" thumbnail="https://img.youtube.com/vi/3GHk5vlb26o/default.jpg" >}} {{< video-gallery-item href="/resources/lecture-1-3" section="Chapter 1. Fermions, Bosons, and Fields" title="Lecture 1.5: Reactions (03:54)" description="Description: The relation between reactions and cross-section and discussion of a classical model. (03:54) Instructor: Prof. Markus Klute" thumbnail="https://img.youtube.com/vi/16iPrwJMvSs/default.jpg" >}}

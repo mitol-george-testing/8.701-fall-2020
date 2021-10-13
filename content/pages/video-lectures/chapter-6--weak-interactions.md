@@ -1,0 +1,9 @@
+---
+content_type: page
+is_media_gallery: true
+parent_title: Video Lectures
+parent_uid: 82effbc6-0d78-a950-02bb-b94bd88aa16a
+title: Chapter 6. Weak Interactions
+uid: eb0d6835-336c-2643-ff7d-c38be60de661
+---
+{{< video-gallery-item href="/resources/lecture-6" section="Chapter 6. Weak Interactions" title="Lecture 6.1: Feynman Rules (09:44)" description="Description: Introduction to the Feynman Rules of the weak interaction. (09:44) Instructor: Prof. Markus Klute" thumbnail="https://img.youtube.com/vi/jtA3Hxww7FQ/default.jpg" >}} {{< video-gallery-item href="/resources/lecture-6-1" section="Chapter 6. Weak Interactions" title="Lecture 6.2: Electroweak Unification (09:25)" description="Description: In this lecture we unify the weak and electromagnetic interaction. (09:25) Instructor: Prof. Markus Klute" thumbnail="https://img.youtube.com/vi/AQkCZmhu0aA/default.jpg" >}} {{< video-gallery-item href="/resources/lecture-6-2" section="Chapter 6. Weak Interactions" title="Lecture 6.3: Pion Decay (07:50)" description="Description: Discussion of the pion decay via weak interaction. (07:50) Instructor: Prof. Markus Klute" thumbnail="https://img.youtube.com/vi/-hgRkC_uUzU/default.jpg" >}} {{< video-gallery-item href="/resources/lecture-6-3" section="Chapter 6. Weak Interactions" title="Lecture 6.4: Quarks (09:17)" description="Description: Discussion of the charged weak interaction with quarks and an introduction of the CMS matrix. (09:17) Instructor: Prof. Markus Klute" thumbnail="https://img.youtube.com/vi/vICUY43i190/default.jpg" >}} {{< video-gallery-item href="/resources/lecture-6-4" section="Chapter 6. Weak Interactions" title="Lecture 6.5: Neutral Current (02:19)" description="Description: Short add-on on neutral currents at energies close to the Z pole. (02:19) Instructor: Prof. Markus Klute" thumbnail="https://img.youtube.com/vi/FEK07tdpX3I/default.jpg" >}}

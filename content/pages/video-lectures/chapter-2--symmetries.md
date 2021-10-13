@@ -1,0 +1,9 @@
+---
+content_type: page
+is_media_gallery: true
+parent_title: Video Lectures
+parent_uid: 82effbc6-0d78-a950-02bb-b94bd88aa16a
+title: Chapter 2. Symmetries
+uid: d2b271d8-0b70-02c8-8970-68f0acab2a6d
+---
+{{< video-gallery-item href="/resources/lecture-2" section="Chapter 2. Symmetries" title="Lecture 2.1: Introduction (07:15)" description="Description: A brief introduction to the importance of symmetries and Noethers theorem. (07:15) Instructor: Prof. Markus Klute" thumbnail="https://img.youtube.com/vi/1jf3xnhKVh4/default.jpg" >}} {{< video-gallery-item href="/resources/lecture-2-1" section="Chapter 2. Symmetries" title="Lecture 2.2: Flavor Symmetry (06:50)" description="Description: Introduction of flavor symmetry and strong isospin. (06:50) Instructor: Prof. Markus Klute" thumbnail="https://img.youtube.com/vi/MlBL7hSUeWE/default.jpg" >}} {{< video-gallery-item href="/resources/lecture-2-2" section="Chapter 2. Symmetries" title="Lecture 2.3: Parity (04:29)" description="Description: Parity violation and the Wu experiment. (04:29) Instructor: Prof. Markus Klute" thumbnail="https://img.youtube.com/vi/4H0EHje2QbQ/default.jpg" >}} {{< video-gallery-item href="/resources/lecture-2-3" section="Chapter 2. Symmetries" title="Lecture 2.4: Charge Conjugation (02:30)" description="Description: Introduction of charge conjugation transforming particle into their corresponding antiparticles. (02:30) Instructor: Prof. Markus Klute" thumbnail="https://img.youtube.com/vi/fdIJzQl60ys/default.jpg" >}} {{< video-gallery-item href="/resources/lecture-2-4" section="Chapter 2. Symmetries" title="Lecture 2.5: CP (11:17)" description="Description: After discussing the topics of parity and charge conjugation, we are now investigating CP symmetry. (11:17) Instructor: Prof. Markus Klute" thumbnail="https://img.youtube.com/vi/pCoDwHg5Vh8/default.jpg" >}}
